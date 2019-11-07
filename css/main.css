@@ -7,3 +7,17 @@
     margin: 0;
     padding: 0;
 }
+
+body {
+    background-color: #A6977B;
+}
+
+
+.header {
+    height: 100vh;
+}
+
+.content-right {
+    z-index: -1;
+    float: right;
+}
